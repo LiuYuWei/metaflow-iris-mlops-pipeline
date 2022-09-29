@@ -1,0 +1,2 @@
+metaflow==2.7.12
+scikit-learn==0.21.0
